@@ -1,6 +1,6 @@
 UniversalCoWRouter
 
-A protocol-agnostic Coincidence-of-Wants matching engine on Ethereum. Using no imports, no OpenZeppelin and ships with a V2 fallback, a V3 fallback, and a Curve fallback, all in one contract, all driven by inline Yul assembly on every hot path.
+A protocol-agnostic Coincidence-of-Wants matching engine on Ethereum. Using no imports, no OpenZeppelin and ships with a V2 fallback, a V3 fallback, and a Curve fallback, all in one contract, all driven by inline Yul assembly on every hot path. (albeit rushed)
 
 This is the EVM-native proof-of-concept. The Solana port is where the real work is going. But more on that at the bottom.
 
