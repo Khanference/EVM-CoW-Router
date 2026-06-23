@@ -1,2 +1,0 @@
-# EVM-CoW-Router
-Placeholder
